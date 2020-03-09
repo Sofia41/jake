@@ -3,12 +3,10 @@ layout: home
 search_exclude: true
 ---
 
-This site is built with [fastpages](https://github.com/fastai/fastpages), An easy to use blogging platform with extra features for Jupyter Notebooks.
+This is a quick blog I hope to be running for the next 365 days to document both my proffessional and personal learning. 
 
-![](images/diagram.png "https://github.com/fastai/fastpages")
+![](images/diagram.png)
 
-[fastpages](https://github.com/fastai/fastpages) automates the process of creating blog posts via GitHub Actions, so you don't have to fuss with conversion scripts.  A full list of features can be found on [GitHub](https://github.com/fastai/fastpages).  
-
-You can edit the `index.md` file to change this content.
+Hopefully, this will be usefull to you (future me) and I hope you can benefit from this journey. 
 
 # Posts
